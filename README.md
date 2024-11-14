@@ -1,4 +1,4 @@
-# BRATS2022
+# ISeg 2017
 
 # 🧠 Segmentation de la Matière Grise et de la Matière Blanche dans le Cerveau
 
