@@ -34,4 +34,4 @@ Assurez-vous d'avoir les packages Python suivants installés :
 
 Vous pouvez installer ces packages via pip :
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-python nibabel
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-python nibabel scikit-image keras
